@@ -5,6 +5,6 @@ writeCards(["Ada", "Brendan", "Ali"], "birthday");
 function writeCards(names, event) {
   let arr = [];
   for(let i=0; i<names.length; i++) {
-    
+    arr = ["Thank you, ${names}, for the wonderful birthday gift!]
   }
 }
